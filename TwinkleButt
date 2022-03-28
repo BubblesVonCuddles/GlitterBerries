@@ -1,6 +1,6 @@
 f = open("TwinkleButtResumePants".txt , "x")
 
-def Header():
-   print("Welcome all Stinkie-Butts!")
+   def Header():
+      print("Welcome all Stinkie-Butts!")
    
-header()
+   header()
